@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rwAFNTNM9b2EgZYD654zbUoECGXMz3gwgQ"
+      }
+    }
+  ],
+  "payId": "slater$rslater12.github.io"
+}
